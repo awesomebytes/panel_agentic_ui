@@ -1,0 +1,30 @@
+[workspace]
+name = "panel-agentic-ui"
+version = "0.1.0"
+channels = ["conda-forge"]
+platforms = ["linux-64"]
+
+[dependencies]
+python = ">=3.11,<3.13"
+panel = ">=1.8.9"
+bokeh = ">=3.6"
+param = "*"
+fastapi = "*"
+uvicorn = "*"
+httpx = "*"
+psutil = "*"
+pydantic-settings = "*"
+pip = "*"
+nodejs = ">=18"
+
+[feature.dev.dependencies]
+pytest = "*"
+pytest-asyncio = "*"
+
+[pypi-dependencies]
+respx = "*"
+pytest-playwright = "*"
+playwright = "*"
+
+[environments]
+default = { features = ["dev"] }

@@ -1,0 +1,16 @@
+{
+  "session_id": "fe9558ae-f714-40d9-a385-32df175f470e",
+  "title": "make a widget that is",
+  "history": [
+    {
+      "role": "user",
+      "content": "make a widget that is just an editable markdown widget that you can choose to edit or render",
+      "timestamp": 1773610771.5303388
+    },
+    {
+      "role": "assistant",
+      "content": "Failed to generate a valid widget after 3 attempts. Last error: OpenAI API quota exceeded \u2014 check billing at platform.openai.com",
+      "timestamp": 1773610772.8242295
+    }
+  ]
+}

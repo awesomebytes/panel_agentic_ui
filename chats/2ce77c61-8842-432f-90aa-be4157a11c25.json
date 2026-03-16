@@ -1,0 +1,16 @@
+{
+  "session_id": "2ce77c61-8842-432f-90aa-be4157a11c25",
+  "title": "make a widget that is",
+  "history": [
+    {
+      "role": "user",
+      "content": "make a widget that is just an editable markdown widget that you can choose to edit or render",
+      "timestamp": 1773610724.7532158
+    },
+    {
+      "role": "assistant",
+      "content": "Failed to generate a valid widget after 3 attempts. Last error: LLM API error: Illegal header value b'Bearer '",
+      "timestamp": 1773610725.3430295
+    }
+  ]
+}

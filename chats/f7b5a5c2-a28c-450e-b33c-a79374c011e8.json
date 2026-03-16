@@ -1,0 +1,16 @@
+{
+  "session_id": "f7b5a5c2-a28c-450e-b33c-a79374c011e8",
+  "title": "hello",
+  "history": [
+    {
+      "role": "user",
+      "content": "hello",
+      "timestamp": 1773610595.462384
+    },
+    {
+      "role": "assistant",
+      "content": "Failed to generate a valid widget after 3 attempts. Last error: LLM API error: Client error '401 Unauthorized' for url 'https://api.anthropic.com/v1/messages'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401",
+      "timestamp": 1773610596.8325255
+    }
+  ]
+}

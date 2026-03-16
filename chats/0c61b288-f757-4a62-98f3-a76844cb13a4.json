@@ -1,0 +1,16 @@
+{
+  "session_id": "0c61b288-f757-4a62-98f3-a76844cb13a4",
+  "title": "test",
+  "history": [
+    {
+      "role": "user",
+      "content": "test",
+      "timestamp": 1773609484.3547847
+    },
+    {
+      "role": "assistant",
+      "content": "test",
+      "timestamp": 1773609484.3549817
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "session_id": "139148ad-924b-4060-92e7-3cc7c4cb9ab2",
+  "title": "make a widget that is",
+  "history": [
+    {
+      "role": "user",
+      "content": "make a widget that is just an editable markdown widget that you can choose to edit or render",
+      "timestamp": 1773610971.9055345
+    },
+    {
+      "role": "assistant",
+      "content": "Failed to generate a valid widget after 3 attempts. Last error: Module docstring (MANIFEST) is missing",
+      "timestamp": 1773610988.2424169
+    }
+  ]
+}

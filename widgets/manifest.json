@@ -1,0 +1,218 @@
+{
+  "widgets": [
+    {
+      "name": "button_function",
+      "version": 1,
+      "title": "Function Button",
+      "description": "Button that calls a Python function",
+      "tags": [
+        "button",
+        "action",
+        "function"
+      ],
+      "category": "Action",
+      "_source_path": "agent/prompts/examples/example_button_function.py",
+      "version_history": [
+        {
+          "version": 1,
+          "filename": "widget_button_function_v1.py",
+          "timestamp": "2026-03-16T07:56:15.579110+00:00"
+        }
+      ]
+    },
+    {
+      "name": "button_subprocess",
+      "version": 1,
+      "title": "Subprocess Runner",
+      "description": "Runs async subprocess and shows output",
+      "tags": [
+        "button",
+        "subprocess",
+        "async",
+        "command"
+      ],
+      "category": "Action",
+      "_source_path": "agent/prompts/examples/example_button_subprocess.py",
+      "version_history": [
+        {
+          "version": 1,
+          "filename": "widget_button_subprocess_v1.py",
+          "timestamp": "2026-03-16T07:56:25.453417+00:00"
+        }
+      ]
+    },
+    {
+      "name": "audit_viewer",
+      "version": 1,
+      "title": "Audit Log Viewer",
+      "description": "Auto-refreshing tabular view of the audit log",
+      "tags": [
+        "audit",
+        "log",
+        "table",
+        "monitoring",
+        "history"
+      ],
+      "category": "Audit",
+      "_source_path": "agent/prompts/examples/example_audit_viewer.py",
+      "version_history": [
+        {
+          "version": 1,
+          "filename": "widget_audit_viewer_v1.py",
+          "timestamp": "2026-03-16T07:56:43.460892+00:00"
+        }
+      ]
+    },
+    {
+      "name": "camera_overlay",
+      "version": 1,
+      "title": "Camera Overlay",
+      "description": "Camera feed with detection overlay",
+      "tags": [
+        "camera",
+        "video",
+        "detection",
+        "overlay",
+        "vision"
+      ],
+      "category": "Camera",
+      "_source_path": "agent/prompts/examples/example_camera_overlay.py",
+      "version_history": [
+        {
+          "version": 1,
+          "filename": "widget_camera_overlay_v1.py",
+          "timestamp": "2026-03-16T07:56:52.333505+00:00"
+        }
+      ]
+    },
+    {
+      "name": "slider_control",
+      "version": 1,
+      "title": "Slider Command",
+      "description": "Slider that sends commands to the backend",
+      "tags": [
+        "slider",
+        "control",
+        "command",
+        "action"
+      ],
+      "category": "Control",
+      "_source_path": "agent/prompts/examples/example_slider_control.py",
+      "version_history": [
+        {
+          "version": 1,
+          "filename": "widget_slider_control_v1.py",
+          "timestamp": "2026-03-16T07:57:04.129257+00:00"
+        }
+      ]
+    },
+    {
+      "name": "mixed_tracker",
+      "version": 1,
+      "title": "System Tracker",
+      "description": "Real-time CPU and memory tracking with start/stop",
+      "tags": [
+        "tracker",
+        "cpu",
+        "memory",
+        "mixed",
+        "real-time"
+      ],
+      "category": "Mixed",
+      "_source_path": "agent/prompts/examples/example_mixed_tracker.py",
+      "version_history": [
+        {
+          "version": 1,
+          "filename": "widget_mixed_tracker_v1.py",
+          "timestamp": "2026-03-16T07:57:10.082027+00:00"
+        }
+      ]
+    },
+    {
+      "name": "notes",
+      "version": 1,
+      "title": "Notes",
+      "description": "Persistent notes editor",
+      "tags": [
+        "notes",
+        "editor",
+        "text",
+        "persistence"
+      ],
+      "category": "Notes",
+      "_source_path": "agent/prompts/examples/example_notes.py",
+      "version_history": [
+        {
+          "version": 1,
+          "filename": "widget_notes_v1.py",
+          "timestamp": "2026-03-16T07:57:25.157959+00:00"
+        }
+      ]
+    },
+    {
+      "name": "plot_oneoff",
+      "version": 1,
+      "title": "System Snapshot",
+      "description": "One-time system stats snapshot",
+      "tags": [
+        "plot",
+        "system",
+        "memory",
+        "disk",
+        "snapshot"
+      ],
+      "category": "Plot",
+      "_source_path": "agent/prompts/examples/example_plot_oneoff.py",
+      "version_history": [
+        {
+          "version": 1,
+          "filename": "widget_plot_oneoff_v1.py",
+          "timestamp": "2026-03-16T07:57:31.788423+00:00"
+        }
+      ]
+    },
+    {
+      "name": "plot_streaming",
+      "version": 1,
+      "title": "Streaming CPU Plot",
+      "description": "Real-time CPU usage streaming plot",
+      "tags": [
+        "plot",
+        "streaming",
+        "cpu",
+        "telemetry",
+        "real-time"
+      ],
+      "category": "Plot",
+      "_source_path": "agent/prompts/examples/example_plot_streaming.py",
+      "version_history": [
+        {
+          "version": 1,
+          "filename": "widget_plot_streaming_v1.py",
+          "timestamp": "2026-03-16T07:57:39.481845+00:00"
+        }
+      ]
+    },
+    {
+      "name": "repl",
+      "version": 1,
+      "title": "Python REPL",
+      "description": "Interactive Python REPL with controlled execution context",
+      "tags": [
+        "repl",
+        "python",
+        "code",
+        "interactive"
+      ],
+      "category": "REPL",
+      "_source_path": "agent/prompts/examples/example_repl.py",
+      "version_history": [
+        {
+          "version": 1,
+          "filename": "widget_repl_v1.py",
+          "timestamp": "2026-03-16T07:57:48.384581+00:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "session_id": "1d1948bf-0c41-4015-9141-1461830c8323",
+  "title": "make a widget that is",
+  "history": [
+    {
+      "role": "user",
+      "content": "make a widget that is just an editable markdown widget that you can choose to edit or render",
+      "timestamp": 1773610679.4968083
+    },
+    {
+      "role": "assistant",
+      "content": "Failed to generate a valid widget after 3 attempts. Last error: LLM API error: Client error '401 Unauthorized' for url 'https://api.anthropic.com/v1/messages'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401",
+      "timestamp": 1773610680.7122264
+    }
+  ]
+}

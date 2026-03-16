@@ -1,0 +1,9 @@
+[project]
+name = "panel-agentic-ui"
+version = "0.1.0"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests/unit", "tests/integration", "tests/e2e"]
+markers = ["e2e: End-to-end browser tests"]
